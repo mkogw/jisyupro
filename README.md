@@ -3,7 +3,7 @@
 ## What you can
 - experience bigger world with your VR headset, like when Alice’s body shrank by drinking something in “Alice in Wonderland”
 - look around the world (the robot will follow your head’s rotation)
-- walk with your own foot (you need not move, but just step on the spot in order to move the robot forward)
+- walk on your own feet (you need not move, but just step on the spot in order to move the robot forward)
 
 
 ## What you need 
