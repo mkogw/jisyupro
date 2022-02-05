@@ -63,8 +63,8 @@ ros::NodeHandle_<WiFiHardware> nh;
 std_msgs::Empty dummy_msg;
 
 
-int POWER_R = 255; //originally 250 // 150 is too low to move 160
-int POWER_L = 255; //originally 250 // 150 is enough to move 150
+int POWER_R = 255; 
+int POWER_L = 255; 
 
 void ledcAnalogWrite(uint8_t channel, uint32_t value, uint32_t valueMax = 255) {
   // calculate duty, 8191 from 2 ^ 13 - 1
