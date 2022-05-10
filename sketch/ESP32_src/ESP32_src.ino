@@ -18,10 +18,10 @@
 #define LEDC_BASE_FREQ     5000
 
 // fade LED PIN (replace with LED_BUILTIN constant for built-in LED)
-#define LED_PIN_0 18 \\LP
-#define LED_PIN_1 17 \\LM
-#define LED_PIN_2 16 \\RP
-#define LED_PIN_3 4 \\RM
+#define LED_PIN_0 18 //LP
+#define LED_PIN_1 17 //LM
+#define LED_PIN_2 16 //RP
+#define LED_PIN_3 4 //RM
 
 const int dt = 5;
 const int N = 36; //must be same as rosnode "head2control"
