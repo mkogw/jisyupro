@@ -39,7 +39,7 @@
 2. launch all of the programs on your PC as follows
   - `roslaunch rosbridge_server rosbridge_websocket.launch`  
   - `python3 mmap_rtsp_theta_capture.py`
-  - `python mmap_rtsp_theta_publisher.py`
+  - `python mmap_theta_publisher.py`
   - `rosrun rosserial_python serial_node.py tcp`
   - `python head2control.py`
   - `python walk2control.py`
